@@ -8,4 +8,5 @@ Meteorological Data - Dry Run.ipynb
 Public Coronavirus Dashboards
 massCases.png
 metDataKBED.csv
-Coronavirus Mapping - Test File.ipynb
+.vscode/
+.gitignore
